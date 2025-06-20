@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Luna",
+    "edad": "3 años",
+    "animal": "gato",
+    "color": "negro",
+    "enfermedad": "pulgas"
+  },
+  {
+    "nombre": "Rocky",
+    "edad": "1 año",
+    "animal": "perro",
+    "color": "marrón",
+    "enfermedad": "diarrea"
+  },
+  {
+    "nombre": "Kiwi",
+    "edad": "6 meses",
+    "animal": "conejo",
+    "color": "gris",
+    "enfermedad": "ojos llorosos"
+  },
+  {
+    "nombre": "Kiwi",
+    "edad": "6 meses",
+    "animal": "conejo",
+    "color": "gris",
+    "enfermedad": "extremadamente inquieto jaja"
+  }
+]
